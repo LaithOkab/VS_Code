@@ -39,3 +39,43 @@ h1,h2,h3,h4,h5,h6{
     text-align: center;
     font-size: 30px;
   }
+
+  #gameLink{
+    text-decoration: none;
+    padding-left: 40%;
+    font-size: 40px;
+    color: lightblue;
+  }
+
+  #donateArea{
+    padding-left: 37.5%;
+    font-size: 50px;
+  }
+
+#donateText{
+  font-size: 30px;
+  padding-left: 70px
+}
+
+#donateBox{
+  background-color: #aabd70;
+  border: 5px #8A9A5B;
+  border-style: solid;
+  border-radius: 20px;
+  font-size: 30px;
+  color: white;
+}
+
+#donateButton{
+  font-size: 30px;
+  margin-left: 45.5%;
+  background-color: #aabd70;
+  border-radius: 15px;
+  color: white;
+  border: white;
+}
+
+#donateButton:hover{
+  background-color: #8A9A5B;
+}
+  
